@@ -1,6 +1,6 @@
-line 1
+line 1 web commit
 line 2 master
-line 3 local
+line 3 master
 add a new line feature 2
 add a new line remotly 2
 add a new line after push
