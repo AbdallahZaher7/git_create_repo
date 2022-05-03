@@ -1,5 +1,5 @@
 line 1
-line 2
+line 2 master
 line 3
 add a new line feature 2
 add a new line remotly 2
