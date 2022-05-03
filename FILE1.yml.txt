@@ -1,6 +1,6 @@
 line 1
 line 2 master
-line 3
+line 3 local
 add a new line feature 2
 add a new line remotly 2
 add a new line after push
