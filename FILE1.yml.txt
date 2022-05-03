@@ -1,4 +1,4 @@
-line 1
+line 1 remote
 line 2 master
 line 3 master
 add a new line feature 2
